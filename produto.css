@@ -1,0 +1,226 @@
+label{
+    display: block;
+    color: black;
+}
+
+.conteudo{
+    height: 475px;
+}
+
+.bolo{
+    margin-left: 60px;
+    color: blue;
+    display: flex;
+    position: absolute;
+    font-size: 29px;
+    padding: 5px;
+}
+
+.a{
+    margin-left: -106px;
+}
+.chocolate{
+    margin-top: 40px;
+    font-size: 18px;
+    position: absolute;
+    margin-left: 25%;
+}
+
+.cenoura{
+    margin-top: 62px;
+    font-size: 18px;
+    position: absolute;
+    margin-left: 25%;
+}
+
+.morango{
+    margin-top: 85px;
+    font-size: 18px;
+    position: absolute;
+    margin-left: 25%;
+}
+
+.check{
+    margin-left: 155px;
+    display: flex;
+    position: absolute;
+    margin-top: 65px;
+}
+
+.valor{
+
+    margin-left: 406px;
+    display: flex;
+    position: absolute;
+    margin-top: 62px;
+}
+.valor_unit{
+    margin-left: 292px;
+    color: blue;
+    display: flex;
+    position: absolute;
+    font-size: 24px;
+    padding: 5px;
+}
+
+.quantidade{
+    margin-left: 595px;
+    margin-top: -32px;
+    color: blue;
+    display: flex;
+    position: absolute;
+    font-size: 24px;
+    padding: 5px;
+}
+
+.quant{
+    display: flex;
+    /* margin-top: 0px; */
+    margin-left: 101px;
+    width: 71px;
+    border-radius: 6px;
+}
+.quantt{
+    margin-left: 522px;
+    margin-top: 35px;
+    position: absolute;
+   
+}
+.salgados{
+        /* display: flex; */
+        position: absolute;
+        margin-top: 142px;
+}
+.salgado-title{
+    margin-left: 155px;
+    color: blue;
+    margin-top: -55px;
+    display: flex;
+    position: absolute;
+    font-size: 29px;
+    padding: 5px;
+}
+
+.salgado{
+    display: flex;
+    margin-left: 67px;
+}
+
+.principal{
+    margin-top: 43px;
+}
+
+.checkSalgado{
+    margin-left: 93px;;
+    display: flex;
+    position: absolute;
+    margin-top: -28px;
+
+}
+
+.valorSalgado{
+    margin-left: 338px;
+    display: flex;
+    position: absolute;
+    margin-top: -23px;
+}
+
+.valor_unitSalgado{
+    margin-left: 335px;
+    color: blue;
+    display: flex;
+    /* position: absolute; */
+    font-size: 24px;
+    /* padding: 5px; */
+    margin-top: 9px;
+}
+
+.quantidadeSalgado{
+    margin-left: 597px;
+    color: blue;
+    display: flex;
+    position: absolute;
+    font-size: 24px;
+    padding: 5px;
+    margin-top: -33px;
+}
+
+.quanttSalgado{
+    margin-top: 0px;
+    margin-left: 522px;
+    position: absolute;
+}
+
+.refrigerantes{
+    /* display: flex; */
+    position: absolute;
+    margin-top: 290px;
+}
+
+.refrigerante-title{
+    margin-left: 153px;
+    margin-top: -77px;
+    color: blue;
+    display: flex;
+    position: absolute;
+    font-size: 29px;
+    padding: 5px;
+}
+
+.refrigerante{
+    display: flex;
+    margin-left: 67px;
+}
+
+.valorRefri{
+    margin-left: 338px;
+    display: flex;
+    position: absolute;
+    margin-top: -50px;
+}
+
+.valor_unitRefri{
+    margin-left: 336px;
+    color: blue;
+    display: flex;
+    /* position: absolute; */
+    font-size: 24px;
+    /* padding: 5px; */
+    margin-top: -106px;
+}
+
+.quantidadeRefri{
+    margin-left: 596px;
+    color: blue;
+    display: flex;
+    position: absolute;
+    font-size: 24px;
+    padding: 5px;
+    margin-top: -33px;
+}
+
+.quanttRefri{
+    margin-top: 0px;
+    margin-left: 522px;
+    position: absolute;
+}
+.button{
+    margin-top: 370px;
+    margin-left: 82px;
+    }
+
+.sal{
+    margin-top: -89px;
+}
+
+.salg{
+    margin-top: 35px;
+}
+
+.ref{
+    margin-top: -52px;
+}
+
+.refri{
+    margin-top: 22px;
+}
